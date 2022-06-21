@@ -47,7 +47,7 @@ public class Player_Movement : MonoBehaviour
 > 2. Unity (platform terms/application)
 
 ### Youtube Video Link:
-> [Hello World Demo Video](https://www.youtube.com/watch?v=1q8xlN7HwS8)
+> [ 2D Game (Demo) Video](https://www.youtube.com/watch?v=1q8xlN7HwS8)
 
 # Useful Websites
 
