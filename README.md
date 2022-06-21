@@ -1,12 +1,12 @@
 # Overview
 
-## *Hello World!*
+## *2D Game (Demo)*
 ## By: Joseph Wilson
 
-![Image](assets\Earth.jpg)
+![Image](Assets\Images\Unity.jpg)
 
 ### Description:
-> In this software, it will help the user how to display "Hello World!"
+> Here is the new change!
 ```
 print("Hello World!")
 
